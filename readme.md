@@ -8,7 +8,6 @@ L'application permet de faire un suivi du poids en fonction de la dose prise en 
 
 L'application utilise FireStore (Firebase de Google) comme base de données et codée en React Native avec l'aide des outils Expo. 
 
-
 Voir les [Documentations](https://corentin-jacquier.fr/docs/projets/Documentations%20Medility%202022%20%20-%20Projet%20Mobile%20bis%20-Corentin%20Jacquier.pdf).
 
 Voir l'application [Petility](https://github.com/CorentinJacquier/Petility_Public).
@@ -28,6 +27,7 @@ const firebaseConfig = {
     appId: "id_application",
     measurementId: "id_meusure"
 };
+```
 
 ## 📷 Capture d'écran
 
